@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="smbms">
+    <output-path>$PROJECT_DIR$/out/artifacts/smbms</output-path>
+    <root id="root">
+      <element id="dir-copy" path="$PROJECT_DIR$/smbms-master/smbms-master/src/main/webapp" />
+    </root>
+  </artifact>
+</component>
